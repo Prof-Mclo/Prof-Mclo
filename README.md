@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 🖤
 
-<!--
-**Prof-Mclo/Prof-Mclo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Marcelo Ap. Chianpesan
 
-Here are some ideas to get you started:
+Minhas principais atividades na plataforma estão relacionados à:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Aulas do Alura 📝;
+- Programação JavaScript 🖥️;
+- Minha organização e desenvolvimento pessoal em programação 📈;
+
+Para entrar em contato comigo acesse:
+
+📷 @prof_mclo_chianpesan
+
+![]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramacao&psig=AOvVaw3JM2YGlbu9BaRn6TyH-P4L&ust=1718389636407000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPCMubCa2YYDFQAAAAAdAAAAABAE](https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif))

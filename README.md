@@ -1,11 +1,11 @@
 ## Olá, eu sou Marcelo 🖤
 
-Sou estudante do ensino médio da escola José Marcelino de Almeida
+Sou Professor do ensino médio da escola José Marcelino de Almeida.
 
 Minhas principais atividades no Github são:
 
-- Estudar as aulas da plataforma Alura 📝;
-- Programação Scratch e JavaScript 🖥️;
+- Lecionar aulas relacionadas aos conteúdos da plataforma Alura 📝;
+- Programação Scratch, JavaScript, HTML, CSS, C#, C++, Ladder, um pouco de Python 😅, entre outras 🖥️;
 - Meu desenvolvimento pessoal em programação 📈;
 
 Para entrar em contato comigo, acesse:
